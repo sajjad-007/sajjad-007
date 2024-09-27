@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sajjad Hossain</h1>
-<h3 align="center">A passionate Web developer A Passionate Programmer and Web Designer from Bangladesh, with expertise in building modern, responsive websites and web applications.</h3>
+<h4 align="center">A Passionate Programmer and Web Designer with expertise in building modern, responsive websites and web applications.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajjad-007&label=Profile%20views&color=0e75b6&style=flat" alt="sajjad-007" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sajjad-hossain-79370632b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sajjad-hossain-79370632b/" height="30" width="40" /></a>
 </p>
