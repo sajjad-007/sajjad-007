@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sajjad Hossain</h1>
-<h4 align="center">A Passionate Programmer and Web Designer with expertise in building modern, responsive websites and web applications.</h4>
+<h3 align="center">A passionate Web developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajjad-007&label=Profile%20views&color=0e75b6&style=flat" alt="sajjad-007" /> </p>
+- 🔭 I’m currently working on **MERN Stack**
+
+- 🌱 I’m currently learning **Node.js**
+
+- 📫 How to reach me **sajjadhossain8123@gmail.com**
+
+
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
@@ -47,8 +53,3 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajjad-007&show_icons=true&locale=en&layout=compact" alt="sajjad-007" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajjad-007&show_icons=true&locale=en" alt="sajjad-007" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajjad-007&" alt="sajjad-007" /></p>
